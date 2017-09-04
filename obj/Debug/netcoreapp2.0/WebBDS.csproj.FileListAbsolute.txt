@@ -1,0 +1,12 @@
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\WebBDS.deps.json
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\WebBDS.runtimeconfig.json
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\WebBDS.runtimeconfig.dev.json
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\WebBDS.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\bin\Debug\netcoreapp2.0\WebBDS.pdb
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\WebBDS.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\WebBDS.AssemblyInfoInputs.cache
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\WebBDS.AssemblyInfo.cs
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\WebBDS.dll
+C:\Users\Nguyen Hoang Chuong\Desktop\Project\WebBDS\obj\Debug\netcoreapp2.0\WebBDS.pdb
